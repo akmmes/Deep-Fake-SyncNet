@@ -1,0 +1,3 @@
+https://medium.com/analytics-vidhya/syncnet-model-with-vidtimit-dataset-dd9de2cb2fb5
+
+https://github.com/Neha13022020/Syncnet_model_VIDTIMIT_dataset
